@@ -8,6 +8,8 @@ use dotnet restore for NuGet packages to be installed (Costura.Fody)
 
 
 
+this tool connects to MYSQL 4, and is ONLY used for old EO databases.
+
 
 ![topupgame](https://github.com/user-attachments/assets/59c55964-b7d3-4ef1-a7a4-5d6d9eff8596)
 
